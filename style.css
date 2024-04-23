@@ -20,7 +20,20 @@ header{
 }
 
 
-.container-b{
-    background-color: aliceblue;
-    color: rgb(229 63 102);
+.slide {
+	width: 30rem;
+	display: none;
+}
+
+.active {
+    display: inline;
+}
+
+
+button{
+    background-color: yellow;
+
+
+
+
 }
